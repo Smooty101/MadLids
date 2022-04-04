@@ -2,6 +2,10 @@
 body{
     background-color: pink;
 }
+.inputs{
+    display: flex;
+    flex-direction: column;
+}
 h1{
 font-size: 30px;
 font-family: 'Courier New', Courier, monospace;
